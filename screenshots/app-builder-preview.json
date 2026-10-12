@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "潮汐秘境计算器",
+      "hasCanvas": false,
+      "bodyTextLen": 537,
+      "bodyTextHash": "1a07c32c2b0597453276b696975d6d455e70305b46266ec06cb4830a093b2a07",
+      "bodyTextPrefix": "潮汐秘境计算器 把游戏里已经翻开的格子填进来。这里只推导和算概率，不会自己生成钻石布局。 8×8 10×10 12×12 剩余 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "潮汐秘境计算器",
+      "hasCanvas": false,
+      "bodyTextLen": 537,
+      "bodyTextHash": "1a07c32c2b0597453276b696975d6d455e70305b46266ec06cb4830a093b2a07",
+      "bodyTextPrefix": "潮汐秘境计算器 把游戏里已经翻开的格子填进来。这里只推导和算概率，不会自己生成钻石布局。 8×8 10×10 12×12 剩余 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
